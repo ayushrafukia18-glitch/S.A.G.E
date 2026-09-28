@@ -1,0 +1,2 @@
+-keep class com.sage.app.needle.NeedleBridge { native <methods>; }
+-keepclasseswithmembernames class * { native <methods>; }

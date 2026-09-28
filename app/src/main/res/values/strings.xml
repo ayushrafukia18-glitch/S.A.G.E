@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SAGE</string>
+    <string name="tagline">Personal AI Assistant</string>
+    <string name="welcome_title">Welcome to SAGE</string>
+    <string name="welcome_subtitle">Your private, intelligent conversational assistant. To get started, please set up your profile and API keys.</string>
+    <string name="user_name_label">Your Name</string>
+    <string name="user_name_placeholder">e.g. Alex</string>
+    <string name="gemini_key_label">Gemini API Key (Required)</string>
+    <string name="gemini_key_placeholder">AIzaSy...</string>
+    <string name="grok_key_label">Grok / xAI API Key (Optional)</string>
+    <string name="grok_key_placeholder">xai-...</string>
+    <string name="test_key_button">Test Key</string>
+    <string name="testing_key">Testing key…</string>
+    <string name="key_valid">Key verified successfully</string>
+    <string name="key_invalid">Invalid API key</string>
+    <string name="key_quota_exceeded">Quota exceeded — please wait or check your account</string>
+    <string name="key_network_error">Network connection error</string>
+    <string name="get_started_button">Continue to SAGE</string>
+    <string name="chat_input_placeholder">Ask Sage anything…</string>
+    <string name="send_button">Send</string>
+    <string name="settings_title">Settings</string>
+    <string name="profile_section">Profile</string>
+    <string name="api_keys_section">API Keys</string>
+    <string name="save_settings_button">Save Changes</string>
+    <string name="wipe_keys_button">Wipe All Keys</string>
+    <string name="wipe_keys_dialog_title">Wipe All Keys?</string>
+    <string name="wipe_keys_dialog_message">This will remove all stored API keys from secure storage. You will need to re-enter a valid Gemini key to use SAGE.</string>
+    <string name="clear_chat_button">Clear Chat History</string>
+    <string name="clear_chat_dialog_title">Clear Chat History?</string>
+    <string name="clear_chat_dialog_message">This will permanently delete all messages stored on this device.</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_invalid_gemini_key">Invalid Gemini key — update it in Settings</string>
+    <string name="error_quota_exceeded">Quota exceeded — add another key or wait</string>
+    <string name="error_offline">No internet connection. Please check your network and try again.</string>
+    <string name="secure_storage_unavailable">Secure storage unavailable on this device.</string>
+</resources>

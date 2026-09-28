@@ -1,0 +1,6 @@
+{
+  "name": "SAGE",
+  "description": "SAGE — personal AI assistant with persistent chat, secure API key management, and intelligent conversational support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
