@@ -24,8 +24,8 @@ jobs:
           distribution: temurin
           java-version: '21'
 
-      - name: Accept Android SDK licenses
-        run: yes | sdkmanager --licenses > /dev/null || true
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
 
       - name: Install Android SDK components
         run: |
